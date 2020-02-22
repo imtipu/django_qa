@@ -24,6 +24,7 @@ django-rest-swagger = "*"
 djangorestframework-simplejwt = "*"
 django-debug-toolbar = "*"
 django-filter = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
