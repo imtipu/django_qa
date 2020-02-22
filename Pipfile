@@ -7,6 +7,23 @@ verify_ssl = true
 
 [packages]
 django = "==2.2.8"
+django-environ = "*"
+waitress = "*"
+whitenoise = "*"
+djangorestframework = "*"
+django-bootstrap4 = "*"
+django-allauth = "*"
+django-rest-auth = "*"
+django-extensions = "*"
+drf-yasg = "*"
+djangorestframework-filters = "*"
+django-crispy-forms = "*"
+django-cleanup = "*"
+coreapi = "*"
+django-rest-swagger = "*"
+djangorestframework-simplejwt = "*"
+django-debug-toolbar = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.7"
